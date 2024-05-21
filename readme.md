@@ -1,0 +1,1 @@
+deploy: eas update
